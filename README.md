@@ -20,4 +20,3 @@ python3 -m http.server 8000
 Puis ouvrez `http://localhost:8000`.
 
 Le formulaire prépare un e-mail dans l’application de messagerie du visiteur. Il n’enregistre pas les demandes sur un serveur.
-# consultin360
